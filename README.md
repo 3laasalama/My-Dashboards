@@ -44,7 +44,7 @@
 <h4>Dashboard 1:</h4>
 
 
-<img " src='Current Technologies.PNG'>
+<img src='Current Technologies.PNG'>
 
 
 
