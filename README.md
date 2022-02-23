@@ -4,7 +4,7 @@
 <p>My Name is Alaa Salama, I graduated from Scientific Computing department of faculty of Computers and Artificial Intelligence Benha University 2020 , and then I finished my military service since dec 2021 </p>
 
 <h3>The Goal of this page</h3>
-<p>I thought to create this page to present my work on dashboards because i find this is the best way to present my dashboards, so I hope you rate me and advice me to be a good page you can contact me by <p style='color:blue'>mr.3laa.salam@gmil.com</p></p>
+<p>I thought to create this page to present my work on dashboards because i find this is the best way to present my dashboards, so I hope you rate me and advice me to be a good page you can contact me by <strong style='color:blue'>mr.3laa.salam@gmil.com</strong></p>
 
 <h3>My Experince</h3>
 <p>I have a nice experience as a fresh data analyst </p>
