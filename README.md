@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/3laasalama/my_dashboards.g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<h1> Welcome to my dashboards page </h1>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
