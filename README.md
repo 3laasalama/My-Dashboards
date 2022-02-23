@@ -43,15 +43,8 @@
 
 <h4>Dashboard 1:</h4>
 
-<spacer>
-  
-  
-  
-  
-  
-</spacer>
 
-<img background-color='white' src='Current Technologies.PNG'>
+<img style="background-color:white;" src='Current Technologies.PNG'>
 
 
 
