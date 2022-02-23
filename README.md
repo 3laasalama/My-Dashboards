@@ -40,7 +40,7 @@
 
 <h4 border-inline: 20px white;>Dashboard 1:</h4>
 
-<img src='Current Technologies.PNG' border-inline: 10px white;>
+<img src='Current Technologies.PNG'>
 
 
 
