@@ -1,5 +1,5 @@
 <h1> Welcome to my dashboards page </h1>
-<p style="font-size:50%;">Presented by Alaa Salama</p>
+<p style="font-size:20%;">Presented by Alaa Salama</p>
 
 <h3>Who am I ?</h3>
 <p>My Name is Alaa Salama, I graduated from Scientific Computing department of faculty of Computers and Artificial Intelligence Benha University 2020 , and then I finished my military service since dec 2021 </p>
