@@ -37,7 +37,7 @@
 <img src='Demographics.PNG'>
 
 
-<h3 border-inline: 20px white;>Dashboard </h3>
+<h3 border-inline: 20px white;>Dashboard 3:</h3>
 <p>This dashboard is created by IBM cloud pak for data, you can see the original dashboard from <a href='https://eu-gb.dataplatform.cloud.ibm.com/dashboards/2d1757dc-4863-4252-9883-8ab87e9b7a84/view/0104a1081eb46cf77ed7b1e4079d7a037963715bbabb8051808c7b495b647997a93b41c0c82f425cdf445030f7bf1b59ce'>Here</a></p>
 <img src='Future Technologies.PNG'>
 
