@@ -43,9 +43,9 @@
 
 <h4>Dashboard 1:</h4>
 
-<pre>
+<spacer>
   
-</pre>
+</spacer>
 
 <img src='Current Technologies.PNG'>
 
