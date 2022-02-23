@@ -1,6 +1,6 @@
 <h1> Welcome to my dashboards page </h1>
 
-<h3>Who am I ?></h3>
+<h3>Who am I ?</h3>
 <p>My Name is Alaa Salama, I graduated from Scientific Computing department of faculty of Computers and Artificial Intelligence Benha University 2020 , and then I finished my military service since dec 2021 </p>
 
 <h3>The Goal of this page</h3>
@@ -13,28 +13,4 @@
 <h3>Introduction</h3
 <p>You will find here all my dashboards and it will be updated, So I work on alot of projects but not all projects i create dashboards for it, but now i try to collect my dashboards in one page so i can prove my experience.</p>
 
-<p>
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3laasalama/my_dashboards.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
