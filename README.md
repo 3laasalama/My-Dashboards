@@ -38,10 +38,7 @@
 <p>You will find here all my dashboards and it will be updated inshallah, So I worked on alot of projects but not all projects i created dashboards for it, but now i try to collect my dashboards in one page so i can prove my experience.</p>
 
 
-<h4>Dashboard 1:
-  <pre>
-  </pre>
-</h4>
+<h4 border-inline: 10px white;>Dashboard 1:</h4>
 
 <img src='Current Technologies.PNG'>
 
