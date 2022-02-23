@@ -51,7 +51,7 @@
   
 </spacer>
 
-<img src='Current Technologies.PNG'>
+<img background-color='white' src='Current Technologies.PNG'>
 
 
 
