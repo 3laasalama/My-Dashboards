@@ -1,22 +1,22 @@
 <h1> Welcome to my dashboards page </h1>
 
-<p>
+<pre>
   
-</p>
+</pre>
 
 <h3>Who am I ?</h3>
 <p>My Name is Alaa Salama, I graduated from Scientific Computing department of faculty of Computers and Artificial Intelligence Benha University 2020 , and then I finished my military service since dec 2021 </p>
 
-<p>
+<pre>
   
-</p>
+</pre>
 
 <h3>The Goal of this page</h3>
 <p>I thought to create this page to present my work on dashboards because i find this is the best way to present my dashboards, so I hope you rate me and advice me to be a good page you can contact me by <b style='color:blue'>mr.3laa.salam@gmail.com</b></p>
 
-<p>
+<pre>
   
-</p>
+</pre>
 
 <h3>My Experince</h3>
 <p>I have a nice experience as a fresh data analyst </p>
@@ -30,20 +30,24 @@
   
 <p><b style='color:red'>3</b>- <b>Technocolabs Software Remotely Internship</b> , this is my third amazing experience in my data analysis journey, this internship made me work on a project on Companies dataset to apply all data analysis steps from data cleaning and EDA to data visualization, I worked with my team to do tasks and our mentor guided us to the right direction of search, if any thing we can't solve.</p>  
   
-<p>
+<pre>
   
-</p>
+</pre>
 
 <h3>Introduction</h3>
 <p>You will find here all my dashboards and it will be updated inshallah, So I worked on alot of projects but not all projects i created dashboards for it, but now i try to collect my dashboards in one page so i can prove my experience.</p>
 
-<p>
+<pre>
   
-</p>
+</pre>
 
 <h4>Dashboard 1:</h4>
 
+<pre>
+  
+</pre>
 
+<img src='Current Technologies.PNG'>
 
 
 
