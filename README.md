@@ -29,7 +29,7 @@
 
 <h3 border-inline: 20px white>Dashboard 1:</h3>
 
-<img src='Current Technologies.PNG'>
+<img src='Demographics.json'>
 
 
 <h3 border-inline: 20px white>Dashboard 2:</h3>
