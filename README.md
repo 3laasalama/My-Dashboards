@@ -29,22 +29,22 @@
 
 <h3 >Dashboard 1:</h3>
 <p>This dashboard is created by Tableau, you can see the original dashboard from <a href='https://public.tableau.com/app/profile/alaa.salama/viz/ClimateandPopulationChange/ClimateandPopulationChange'>Here</a></p>
-<img src='Population - ClimateChange.PNG'>
+<img src='UrbanPopulation - ClimateChange.PNG'>
 
 
 <h3 >Dashboard 2:</h3>
 <p>This dashboard is created by Tableau, you can see the original dashboard from <a href='https://public.tableau.com/app/profile/alaa.salama/viz/ClimateandPopulationChange/ClimateandPopulationChange'>Here</a></p>
-<img src='AgricultureLand - ClimateChange.PNG'>
+<img src='Population - ClimateChange.PNG'>
 
 
 <h3 >Dashboard 3:</h3>
 <p>This dashboard is created by Tableau, you can see the original dashboard from <a href='https://public.tableau.com/app/profile/alaa.salama/viz/ClimateandPopulationChange/ClimateandPopulationChange'>Here</a></p>
-<img src='Co2 - ClimateChange.PNG'>
+<img src='AgricultureLand - ClimateChange.PNG'>
 
 
 <h3 >Dashboard 4:</h3>
 <p>This dashboard is created by Tableau, you can see the original dashboard from <a href='https://public.tableau.com/app/profile/alaa.salama/viz/ClimateandPopulationChange/ClimateandPopulationChange'>Here</a></p>
-<img src='UrbanPopulation - ClimateChange.PNG'>
+<img src='Co2 - ClimateChange.PNG'>
 
 
 <h3 >Dashboard 5:</h3>
