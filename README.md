@@ -6,7 +6,7 @@
 
 
 <h3>The Goal of this page</h3>
-<p>I thought to create this page to present my work on dashboards because i find this is the best way to present my dashboards, so I hope you rate me and advice me to be a good page you can contact me by <b style='color:blue'>mr.3laa.salam@gmail.com</b></p>
+<p>I thought to create this page to present my work on dashboards because i find this is the best way to present my dashboards, so I hope you rate me and advice me to be a good page you can contact me by <b style='color:blue'>alaa161036@fci.bu.edu.eg</b></p>
 
 
 
