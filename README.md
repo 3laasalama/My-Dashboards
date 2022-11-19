@@ -1,5 +1,5 @@
 <h1> Welcome to my dashboards page </h1>
-<p style="font-size:70%;">Presented by Alaa Salama</p>
+<p style="font-size:130%;">Alaa Salama</p>
 
 <h3>Who am I ?</h3>
 <p>My Name is Alaa Salama, I graduated from Scientific Computing department of faculty of Computers and Artificial Intelligence Benha University 2020 , and then I finished my military service since dec 2021 </p>
@@ -24,26 +24,52 @@
   
 
 <h3>Introduction</h3>
-<p>You will find here all my dashboards and it will be updated inshallah, So I worked on alot of projects but not all projects i created dashboards for it, but now i try to collect my dashboards in one page so i can prove my experience.</p>
+<p>You will find here all my dashboards and it will be updated inshallah, So I worked on alot of projects but not all projects i created dashboards for it, but now i try to collect my dashboards in one page so i can prove my experience. I used tools like Tableau, Power BI, Excel and IBM cloud pak</p>
 
 
 <h3 >Dashboard 1:</h3>
+<p>This dashboard is created by Tableau, you can see the original dashboard from <a href='https://public.tableau.com/app/profile/alaa.salama/viz/ClimateandPopulationChange/ClimateandPopulationChange'>Here</a></p>
+<img src='Population - ClimateChange.PNG'>
+
+
+<h3 >Dashboard 2:</h3>
+<p>This dashboard is created by Tableau, you can see the original dashboard from <a href='https://public.tableau.com/app/profile/alaa.salama/viz/ClimateandPopulationChange/ClimateandPopulationChange'>Here</a></p>
+<img src='AgricultureLand - ClimateChange.PNG'>
+
+
+<h3 >Dashboard 3:</h3>
+<p>This dashboard is created by Tableau, you can see the original dashboard from <a href='https://public.tableau.com/app/profile/alaa.salama/viz/ClimateandPopulationChange/ClimateandPopulationChange'>Here</a></p>
+<img src='Co2 - ClimateChange.PNG'>
+
+
+<h3 >Dashboard 4:</h3>
+<p>This dashboard is created by Tableau, you can see the original dashboard from <a href='https://public.tableau.com/app/profile/alaa.salama/viz/ClimateandPopulationChange/ClimateandPopulationChange'>Here</a></p>
+<img src='UrbanPopulation - ClimateChange.PNG'>
+
+
+<h3 >Dashboard 5:</h3>
 <p>This dashboard is created by IBM cloud pak for data, you can see the original dashboard <a href='https://eu-gb.dataplatform.cloud.ibm.com/dashboards/fe727237-e62c-4695-a052-3f0ea7f66ccc/view/7238f20b33e86d9f44c9eee4079d7a037963715bbabb8051808c7b495b647997a93b41c0c82f425cdf445030f7bf1b59ce'>Here</a></p>
 <img src='Current Technologies.PNG'>
 
 
-<h3 >Dashboard 2:</h3>
+<h3 >Dashboard 6:</h3>
 <p>This dashboard is created by IBM cloud pak for data, you can see the original dashboard from <a href='https://eu-gb.dataplatform.cloud.ibm.com/dashboards/4194f97c-f364-4c0c-83a7-202f1afa6637/view/5465fd786fb02dca68d7c4e4079d7a037963715bbabb8051808c7b495b647997a93b41c0c82f425cdf445030f7bf1b59ce'>Here</a></p>
 <img src='Demographics.PNG'>
 
 
-<h3 >Dashboard 3:</h3>
+<h3 >Dashboard 7:</h3>
 <p>This dashboard is created by IBM cloud pak for data, you can see the original dashboard from <a href='https://eu-gb.dataplatform.cloud.ibm.com/dashboards/2d1757dc-4863-4252-9883-8ab87e9b7a84/view/0104a1081eb46cf77ed7b1e4079d7a037963715bbabb8051808c7b495b647997a93b41c0c82f425cdf445030f7bf1b59ce'>Here</a></p>
 <img src='Future Technologies.PNG'>
 
 
+<h3 >Dashboard 7:</h3>
+<p>This dashboard is created by Power BI</p>
+<img src='TechSales-Orion360.PNG'>
 
 
+<h3 >Dashboard 8:</h3>
+<p>This dashboard is created by Excel</p>
+<img src='Excel Project.PNG'>
 
 
 
