@@ -13,14 +13,16 @@
 <h3>My Experience</h3>
 <p>I have one year experience as a BI analyst </p>
 
-<p><b style='color:red'>1</b>- Graduation Project is the first and amazing experience, It was a text detection and recognition system using CTPN Connectonist Text Proposal Network it was very hard experience as a senior student but i learnt alot from this experience.</p>
+<p><b style='color:red'>1</b>- I studied at Information Technology Institute (ITI) as a BI Analyst in data visualization track, it was an amazing internship that made strong knowledge of business intelligence field for me. through it i studied courses like Tableau, Power BI, Excel, Oracle DB, DWH concepts.</p>
+
+<p><b style='color:red'>2</b>- Graduation Project is the first and amazing experience, It was a text detection and recognition system using CTPN Connectonist Text Proposal Network it was very hard experience as a senior student but i learnt alot from this experience.</p>
 
 <p>
-  <b style='color:red'>2</b>- My awesome second experience is 
+  <b style='color:red'>3</b>- My awesome second experience is 
   <b>IBM Data Analysis Professional Certificate</b> , I learnt alot and alot from this specialization it was full of information, Through this journey i worked on data analysis with excel(data cleaning and data visualization), and SQL by doing alot of queries on a specified databae and in the final I worked on data analysis with amazing python language with <b>Numby, Pandas and Sciby </b> and i applied with python on alot of datasets by doing <b>data cleaning , EDA Exploratory Data Analysis and data visualization </b> 
 </p>
   
-<p><b style='color:red'>3</b>- <b>Technocolabs Software Remotely Internship</b> , this is my third amazing experience in my data analysis journey, this internship made me work on a project on Companies dataset to apply all data analysis steps from data cleaning and EDA to data visualization, I worked with my team to do tasks and our mentor guided us to the right direction of search, if any thing we can't solve.</p>  
+<p><b style='color:red'>4</b>- <b>Technocolabs Software Remotely Internship</b> , this is my third amazing experience in my data analysis journey, this internship made me work on a project on Companies dataset to apply all data analysis steps from data cleaning and EDA to data visualization, I worked with my team to do tasks and our mentor guided us to the right direction of search, if any thing we can't solve.</p>  
   
 
 <h3>Introduction</h3>
