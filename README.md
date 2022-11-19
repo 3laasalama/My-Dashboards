@@ -10,8 +10,8 @@
 
 
 
-<h3>My Experince</h3>
-<p>I have a nice experience as a fresh data analyst </p>
+<h3>My Experience</h3>
+<p>I have one year experience as a BI analyst </p>
 
 <p><b style='color:red'>1</b>- Graduation Project is the first and amazing experience, It was a text detection and recognition system using CTPN Connectonist Text Proposal Network it was very hard experience as a senior student but i learnt alot from this experience.</p>
 
